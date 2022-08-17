@@ -2,7 +2,7 @@
 
 #################################################################################
 # 
-# audit_mail_accounts.sh
+# ea_audit_mail_accounts.sh
 # 
 # Built to query the db file that hosts all internet accounts and return
 # the ones owned by Mail.app.
